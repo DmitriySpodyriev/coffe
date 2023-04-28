@@ -85,7 +85,7 @@ padding: 0;
 
 .box-3{
     background: #a59f8d;
-    
+    margin: 10px 0;
     height: 467px;
     display: flex;
     justify-content: center;
